@@ -190,6 +190,9 @@ body{
       margin-left: 10px;
       width: 90px;
     }
+    .box{
+      width: 350px;
+    }
   }
 
 .header{
