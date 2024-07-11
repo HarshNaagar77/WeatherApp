@@ -1,5 +1,5 @@
 ## Description
-This repository contains the source code and assets for my personal website. The website showcases my portfolio, blog, and other projects.
+This repository contains the source code and assets for a weather webiste. The website showcases current weather report of various location around the world.
 
 ## Website URL
 You can access the website [here.](https://weatherwizard.tech/).
